@@ -17,7 +17,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "git@github.com:sy-l123/lerna-repo.git"
+    "registry": "https://github.com/sy-l123/lerna-repo.git"
   },
   "scripts": {
     "dev": "node lib/index.js",
@@ -26,5 +26,6 @@
   "dependencies": {
     "typescript": "^4.6.4",
     "utils": "^0.0.3"
-  }
+  },
+  "gitHead": "92f50c94f06fa8de4e7d3465ceb59a69a322668c"
 }

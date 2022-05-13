@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "git@github.com:sy-l123/lerna-repo.git"
+    "registry": "https://github.com/sy-l123/lerna-repo.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
@@ -22,5 +22,6 @@
   "dependencies": {
     "lodash": "^4.17.21",
     "typescript": "^4.6.4"
-  }
+  },
+  "gitHead": "92f50c94f06fa8de4e7d3465ceb59a69a322668c"
 }
