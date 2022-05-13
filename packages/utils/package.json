@@ -1,6 +1,6 @@
 {
-  "name": "utils",
-  "version": "0.0.7",
+  "name": "@syyyds-cli/utils",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "李思远 <lisiyuan>",
   "homepage": "",
@@ -15,7 +15,7 @@
   ],
   "publishConfig": {
     "access": "public",
-    "registry": "https://github.com/sy-l123/lerna-repo.git"
+    "registry": "https://registry.npm.taobao.org/"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"

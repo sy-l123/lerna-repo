@@ -1,13 +1,13 @@
 {
-  "name": "vue2wx",
-  "version": "0.0.7",
+  "name": "@syyyds-cli/vue2wx",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "李思远 <lisiyuan>",
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
   "bin": {
-    "lsy-cli-test-lerna": "bin/index.js"
+    "lsy-cli-repo-lerna": "bin/index.js"
   },
   "directories": {
     "lib": "lib",
@@ -18,15 +18,15 @@
   ],
   "publishConfig": {
     "access": "public",
-    "registry": "https://github.com/sy-l123/lerna-repo.git"
+    "registry": "https://registry.npm.taobao.org/"
   },
   "scripts": {
-    "dev": "node lib/index.js",
+    "dev": "node lib/core.js",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
     "typescript": "^4.6.4",
-    "utils": "^0.0.7"
+    "@syyyds-cli/utils": "^0.0.1"
   },
   "gitHead": "92f50c94f06fa8de4e7d3465ceb59a69a322668c"
 }
