@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "http://192.168.2.221:4873/"
+    "registry": "git@github.com:sy-l123/lerna-repo.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"

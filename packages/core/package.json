@@ -20,6 +20,7 @@
     "registry": "git@github.com:sy-l123/lerna-repo.git"
   },
   "scripts": {
+    "dev": "node lib/index.js",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
