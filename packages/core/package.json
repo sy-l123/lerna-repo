@@ -1,6 +1,6 @@
 {
   "name": "vue2wx",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "> TODO: description",
   "author": "李思远 <lisiyuan>",
   "homepage": "",
@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "typescript": "^4.6.4",
-    "utils": "^0.0.4"
+    "utils": "^0.0.5"
   },
   "gitHead": "92f50c94f06fa8de4e7d3465ceb59a69a322668c"
 }
