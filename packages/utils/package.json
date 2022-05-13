@@ -1,6 +1,6 @@
 {
   "name": "utils",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "> TODO: description",
   "author": "李思远 <lisiyuan>",
   "homepage": "",
@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "access":"public",
+    "access": "public",
     "registry": "https://github.com/sy-l123/lerna-repo.git"
   },
   "scripts": {
