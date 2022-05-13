@@ -4,6 +4,6 @@ module.exports = core;
 const utils = require('utils');
 function core() {
     // TODO
-    console.log('packages core');
+    console.log('packages core111');
     utils();
 }
