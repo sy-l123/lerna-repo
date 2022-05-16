@@ -1,6 +1,6 @@
 {
   "name": "@syyyds-cli/vue2wx",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "> TODO: description",
   "author": "李思远 <lisiyuan>",
   "homepage": "",
@@ -25,7 +25,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@syyyds-cli/utils": "^0.0.11",
+    "@syyyds-cli/utils": "^0.0.12",
     "typescript": "^4.6.4"
   },
   "gitHead": "7d62e29a4cca187eb6fe56adb11896f9f8cf20de"
